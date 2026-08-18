@@ -6,7 +6,7 @@ Sobre
 
 Este repositório reúne os exercícios de Python, resolvidos no Google Colab. A ideia é praticar os conceitos vistos em aula e manter um histórico organizado de cada lista/exercício.
 
-Como abrir
+Como abrir?
 
 O arquivo é um notebook (.ipynb). Você pode:
 
